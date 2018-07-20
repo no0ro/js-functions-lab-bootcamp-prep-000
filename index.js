@@ -1,10 +1,10 @@
 // write your code below!
 function happyHolidays(){
-  return 'Happy holiday!';
+  return 'Happy holidays!';
 }
 
 function happyHolidaysTo(name){
-  return `Happy holiday, ${name}!`;
+  return `Happy holidays, ${name}!`;
 }
 
 function happyHolidayTo(holiday, name){
